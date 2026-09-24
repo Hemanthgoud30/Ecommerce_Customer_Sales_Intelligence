@@ -1,3 +1,4 @@
+[Open the Live Streamlit Dashboard](https://hemanthgoud30-ecommerce-customer-sales-intelligence-app-aqozwk.streamlit.app/)
 # E-Commerce Customer & Sales Intelligence
 
 ## AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026
@@ -122,7 +123,7 @@ Invoice numbers beginning with `C` represent cancelled transactions.
 
 The project follows these major stages:
 
-```text
+
 Raw Dataset
      ↓
 Data Cleaning
@@ -724,7 +725,7 @@ README documentation
 
 The interactive Streamlit dashboard for this project is available here:
 
-**Live Dashboard:** https://hemanthgoud30-ecommerce-customer-sales-intelligence-app-aqozwk.streamlit.app/
+[Open the Live Streamlit Dashboard](https://hemanthgoud30-ecommerce-customer-sales-intelligence-app-aqozwk.streamlit.app/)
 
 The dashboard contains three main sections:
 
