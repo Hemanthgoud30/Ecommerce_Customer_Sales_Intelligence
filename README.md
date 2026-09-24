@@ -720,3 +720,14 @@ Streamlit dashboard
 Project report
 Requirements file
 README documentation
+## Live Dashboard
+
+The interactive Streamlit dashboard for this project is available here:
+
+**Live Dashboard:** https://hemanthgoud30-ecommerce-customer-sales-intelligence-app-aqozwk.streamlit.app/
+
+The dashboard contains three main sections:
+
+1. **Executive Overview** – Key business KPIs, revenue trends, and overall sales performance.
+2. **Sales & Product Analysis** – Monthly revenue, country-level performance, and top products.
+3. **Customer & Risk Analysis** – RFM-based customer segmentation and potentially at-risk customer analysis.
